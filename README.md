@@ -19,7 +19,7 @@ A curated list of Multinational Corporation (MNC) career pages for job seekers a
 | Oracle                          | [https://careers.oracle.com/](https://careers.oracle.com/)                      
 | EY                              | [https://careers.ey.com/](https://careers.ey.com/)                               
 | Quinstreet                               | [https://www.quinstreet.com/careers/](https://www.quinstreet.com/careers/)    
-| Juniper                               | [https://jobs.juniper.net/careers?domain=juniper.net&hl=&start=0&pid=893381453774&sort_by=match]([https://www.quinstreet.com/careers/](https://jobs.juniper.net/careers?domain=juniper.net&hl=&start=0&pid=893381453774&sort_by=match))   
+| Juniper                               | [https://jobs.juniper.net/careers?domain=juniper.net&hl=&start=0&pid=893381453774&sort_by=match](https://jobs.juniper.net/careers?domain=juniper.net&hl=&start=0&pid=893381453774&sort_by=match)   
 | Fynd                              | [https://fynd.keka.com/careers/](https://fynd.keka.com/careers/) 
 | WSAudiology(Remote)                              | [https://careersapac.wsa.com/#jobs](https://careersapac.wsa.com/#jobs) 
 | HSBC                              | [https://mycareer.hsbc.com/en_GB/external/SearchJobs](https://mycareer.hsbc.com/en_GB/external/SearchJobs) 
